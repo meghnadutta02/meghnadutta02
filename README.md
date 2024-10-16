@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Meghna Dutta</h1>
-<h3 align="center">Innovative Full Stack Developer | Cloud Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Meghna Dutta</h1>
+<h3 align="left">Innovative Full Stack Developer | Cloud Enthusiast</h3>
 
 
 
